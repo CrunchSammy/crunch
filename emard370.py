@@ -155,7 +155,7 @@ if(expirydate>today):
             period=400
             hero()
     elif(now>FFinal and now<FFinalend):
-            period=441
+            period=440
             hero()
     else:
         banner='figlet Rxce 7.o '
