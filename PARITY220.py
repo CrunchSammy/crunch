@@ -168,7 +168,7 @@ if(expirydate>today):
         banner='figlet RXCE 8.1|lolcat'
         print("Hi!! Thanks for buying Life time the hack")
         print("----------Your play time-----------")
-        print(" 11:00 PM- 11:35 PM")
+        print(" 11:00 AM- 11:35 AM")
         print(" 02:00 PM- 02:35 PM")
         print(" 03:00 PM- 03:35 PM")
         print(" 09:00 PM- 09:35 PM")
